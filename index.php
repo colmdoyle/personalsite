@@ -1,11 +1,23 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
 	<head>
 		<title>Colm is ainm dom</title>
+		
+		
 		
 		<!-- Meta Tags -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		
+		<!-- OG Tags -->
+	    <meta property="og:title" content="Colm is ainm dom"/>
+	    <meta property="og:type" content="website"/>
+	    <meta property="og:url" content="http://www.colmisainmdom.com/index.php"/>
+	    <meta property="og:image" content="http://www.colmisainmdom.com/img/ogimg.jpg"/>
+    	<meta property="og:sitename" content="Colm is ainm dom"/>
+     	<meta property="fb:appid" content="140479545983869"/>
+
+    	
 		<!-- include javascript -->
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script type="text/javascript" src="javascript/colmisainmdom.jquery.js"></script>
@@ -39,7 +51,7 @@
 	<div id="fb-root"></div>
 	<script type="text/javascript">
 	  window.fbAsyncInit = function() {
-	    FB.init({appId: '120999667956026', status: true, cookie: true,
+	    FB.init({appId: '140479545983869', status: true, cookie: true,
 	             xfbml: true});
 	  };
 	  (function() {
@@ -49,12 +61,22 @@
 	    document.getElementById('fb-root').appendChild(e);
 	  }());
 	</script>
-
-	<div class="container">
-		<div class="span-24 showgrid">
+	<div id="header" class="container">
+		<hr class="space">
+		<div id="left_header" class="span-21">
 			<h1>Colm Doyle</h1>
+			<h4>A twenty something developer from Dublin, Ireland</h3>
+		</div>
+		<div id="right_header" class="span-3 last">
+			<img src="img/headshot.jpg" alt="Photo of Colm Doyle" width="75" height="75" />
+		</div>
+	</div>	
+	<div id="content" class="container">
+		<div class="span-24">
+			<hr>
 			<p><a href="#" rel="colm/colmisainmdom.com" class="email">email me</a></p>	
 			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial"></fb:like></p>
+			
 		</div>
 	</div>
 	</body>
