@@ -4,6 +4,8 @@
       xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>Colm is ainm dom - The personal site of Colm Doyle</title>
+	    <link rel="shortcut icon" href="http://www.colmisainmdom.com/favicon.ico" />
+
 				
 		<!-- Meta Tags -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
