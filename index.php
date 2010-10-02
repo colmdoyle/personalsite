@@ -66,7 +66,7 @@
 	<div id="header" class="container">
 		<hr class="space"/>
 		<div id="left_header" class="span-21">
-			<h1>Colm Doyle</h1>
+			<h1 id="name">Colm Doyle</h1>
 			<h4>A twenty something developer from Dublin, Ireland</h4>
 		</div>
 		<div id="right_header" class="span-3 last">

@@ -4,3 +4,10 @@ body
 background-color: #999999;
 
 }
+
+#name
+{
+
+text-shadow: 0 1px 0 #AAAAAA;
+
+}
