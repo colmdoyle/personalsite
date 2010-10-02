@@ -2,10 +2,8 @@
 <html xmlns:og="http://opengraphprotocol.org/schema/"
       xmlns:fb="http://www.facebook.com/2008/fbml">
 	<head>
-		<title>Colm is ainm dom</title>
-		
-		
-		
+		<title>Colm is ainm dom - The personal site of Colm Doyle</title>
+				
 		<!-- Meta Tags -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		
@@ -15,7 +13,9 @@
 	    <meta property="og:url" content="http://www.colmisainmdom.com/index.php"/>
 	    <meta property="og:image" content="http://www.colmisainmdom.com/img/ogimg.jpg"/>
     	<meta property="og:sitename" content="Colm is ainm dom"/>
-     	<meta property="fb:appid" content="140479545983869"/>
+     	<meta property="fb:app_id" content="140479545983869"/>
+    	<meta property="og:description" content="The website of a twenty something developer from Dublin, Ireland"/>
+
 
     	
 		<!-- include javascript -->
@@ -72,12 +72,19 @@
 		</div>
 	</div>	
 	<div id="content" class="container">
-		<div class="span-24">
+		<div class="span-24 last">
 			<hr>
-			<p><a href="#" rel="colm/colmisainmdom.com" class="email">email me</a></p>	
-			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial"></fb:like></p>
-			
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		</div>
+	</div>
+	<div id="footer" class="container">
+		<div class="span-24 last">
+			<hr>
+			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>
+			<hr class="space">
+
+		</div>
+	
 	</div>
 	</body>
 </html>
