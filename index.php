@@ -1,11 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns:og="http://opengraphprotocol.org/schema/"
-      xmlns:fb="http://www.facebook.com/2008/fbml">
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>Colm is ainm dom - The personal site of Colm Doyle</title>
 				
 		<!-- Meta Tags -->
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 		
 		<!-- OG Tags -->
 	    <meta property="og:title" content="Colm is ainm dom"/>
@@ -23,12 +24,12 @@
 		<script type="text/javascript" src="javascript/colmisainmdom.jquery.js"></script>
 		
 		<!-- include CSS (Mostly Blueprint) -->
-		<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
-		<link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print">
+		<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection"/>
+		<link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"/>
 		<!--[if lt IE 8]>
-		  <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection">
+		  <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"/>
 		<![endif]-->
-		<link rel="stylesheet" href="css/custom.css" type="text/css" media="screen, projection">
+		<link rel="stylesheet" href="css/custom.css" type="text/css" media="screen, projection"/>
 
 		<!-- Urchin -->
 		<script type="text/javascript">
@@ -63,10 +64,10 @@
 	  }());
 	</script>
 	<div id="header" class="container">
-		<hr class="space">
+		<hr class="space"/>
 		<div id="left_header" class="span-21">
 			<h1>Colm Doyle</h1>
-			<h4>A twenty something developer from Dublin, Ireland</h3>
+			<h4>A twenty something developer from Dublin, Ireland</h4>
 		</div>
 		<div id="right_header" class="span-3 last">
 			<img src="img/headshot.jpg" alt="Photo of Colm Doyle" width="75" height="75" />
@@ -74,15 +75,15 @@
 	</div>	
 	<div id="content" class="container">
 		<div class="span-24 last">
-			<hr>
+			<hr/>
 			<p>Nothing to see here, just move along.</p>
 		</div>
 	</div>
 	<div id="footer" class="container">
 		<div class="span-24 last">
-			<hr>
+			<hr/>
 			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>
-			<hr class="space">
+			<hr class="space"/>
 
 		</div>
 	
