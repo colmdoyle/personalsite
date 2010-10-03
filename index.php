@@ -86,10 +86,32 @@
 	<div id="footer" class="container">
 		<hr/>
 		<div class="span-7 colborder">
-			About me
+			<h5>About me</h5>
+			<ul>
+				<li>Link 1</li>
+				<li>Link 2</li>
+				<li>Link 3</li>
+				<li>Link 4</li>
+			</ul>
 		</div>
-		<div class="span-7 colborder">Projects</div>
-		<div class="span-8 last">Links</div>
+		<div class="span-7 colborder">
+			<h5>Projects</h5>
+			<ul>
+				<li>Link 1</li>
+				<li>Link 2</li>
+				<li>Link 3</li>
+				<li>Link 4</li>
+			</ul>
+		</div>
+		<div class="span-8 last">
+			<h5>Links</h5>
+			<ul>
+				<li><a href="http://ie.linkedin.com/in/colmdoyle">LinkedIn</a></li>
+				<li><a href="http://github.com/colmdoyle">GitHub</a></li>
+				<li><a href="http://twitter.com/colmisainmdom">Twitter</a></li>
+				<li><a href="http://www.facebook.com/colmdoyle">Facebook</a></li>
+			</ul>
+		</div>
 	</div>
 	</body>
 </html>
