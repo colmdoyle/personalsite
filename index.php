@@ -13,7 +13,7 @@
 	    <meta property="og:title" content="Colm is ainm dom"/>
 	    <meta property="og:type" content="website"/>
 	    <meta property="og:url" content="http://www.colmisainmdom.com/index.php"/>
-	    <meta property="og:image" content="http://www.colmisainmdom.com/img/ogimg.jpg"/>
+	    <meta property="og:image" content="http://www.colmisainmdom.com/img/headshot.jpg"/>
     	<meta property="og:sitename" content="Colm is ainm dom"/>
      	<meta property="fb:app_id" content="140479545983869"/>
     	<meta property="og:description" content="The website of a twenty something developer from Dublin, Ireland"/>
@@ -78,10 +78,15 @@
 	</div>	
 	<div id="content" class="container">
 		<div class="span-18 colborder">
+			<h4>I'll think of something to put here.</h4>
 			<p>Nothing to see here, just move along.</p>
 			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>						
 		</div>
-		<div class="span-5 last">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+		<div class="span-5 last">
+		<h4>About this site</h4>
+		Deleting an old &amp; under-maintained, but otherwise functional website before you've even sketched out the replacement could be thought of as impulsive. I just call it &quot;forcing my hand&quot;.
+		<hr class="space">
+		</div>
 	</div>
 	<div id="footer" class="container">
 		<hr/>
@@ -104,7 +109,7 @@
 			</ul>
 		</div>
 		<div class="span-8 last">
-			<h5>Links</h5>
+			<h5>My life online</h5>
 			<ul>
 				<li><a href="http://ie.linkedin.com/in/colmdoyle">LinkedIn</a></li>
 				<li><a href="http://github.com/colmdoyle">GitHub</a></li>
