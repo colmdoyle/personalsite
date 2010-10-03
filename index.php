@@ -5,7 +5,6 @@
 	<head>
 		<title>Colm is ainm dom - The personal site of Colm Doyle</title>
 	    <link rel="shortcut icon" href="http://www.colmisainmdom.com/favicon.ico" />
-
 				
 		<!-- Meta Tags -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -31,6 +30,7 @@
 		<!--[if lt IE 8]>
 		  <link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"/>
 		<![endif]-->
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold&subset=latin" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="css/custom.css" type="text/css" media="screen, projection"/>
 
 		<!-- Urchin -->
@@ -74,22 +74,22 @@
 		<div id="right_header" class="span-3 last">
 			<img src="img/headshot.jpg" alt="Photo of Colm Doyle" width="75" height="75" />
 		</div>
+		<hr/>
 	</div>	
 	<div id="content" class="container">
-		<div class="span-24 last">
-			<hr/>
+		<div class="span-18 colborder">
 			<p>Nothing to see here, just move along.</p>
+			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>						
 		</div>
+		<div class="span-5 last">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 	</div>
 	<div id="footer" class="container">
-		<div class="span-24 last">
-			<hr/>
-			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>
-			<hr class="space"/>
-
+		<hr/>
+		<div class="span-7 colborder">
+			About me
 		</div>
-	
+		<div class="span-7 colborder">Projects</div>
+		<div class="span-8 last">Links</div>
 	</div>
 	</body>
 </html>
-
