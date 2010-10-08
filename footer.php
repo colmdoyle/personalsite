@@ -14,7 +14,7 @@
 		<div class="span-7 colborder">
 			<h5>Projects</h5>
 			<ul>
-				<li>Facebook Applications</li>
+				<li><a href="http://github.com/colmdoyle/Colm-is-ainm-dom">This site!</a></li>
 				<li>Link 2</li>
 				<li>Link 3</li>
 				<li>Link 4</li>
