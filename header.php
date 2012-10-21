@@ -21,8 +21,7 @@ require('functionFile.php');
 	    <meta property="og:title" content="Colm is ainm dom"/>
 	    <meta property="og:type" content="website"/>
 	    <meta property="og:url" content="<?php echo curPageURL(); ?>"/>
-	    <meta property="og:image" content="http://www.colmisainmdom.com/img/headshot.jpg"/>
-    	<meta property="og:sitename" content="Colm is ainm dom"/>
+	    <meta property="og:image" content="http://graph.facebook.com/colmdoyle/picture?width=200&height=200"/>
      	<meta property="fb:app_id" content="140479545983869"/>
     	<meta property="og:description" content="The website of a twenty something developer from Dublin, Ireland"/>
 
