@@ -9,9 +9,8 @@ require('header.php');
 			<ul>
 				<li>My portfolio</li>
 				<li>Details on myself</li>
-				<li>A project of mine which I can only describe as - Facebook Platform, the missing manual</li>
 			</ul>
-			<p><fb:like href="http://www.colmisainmdom.com/index.php" font="arial" ref="footer"></fb:like></p>						
+			<p><div class="fb-subscribe" data-href="https://www.facebook.com/colmdoyle" data-show-faces="true" data-width="450"></div></p>
 		</div>
 		<div class="span-5 last">
 		<h4>About this site</h4>
@@ -19,8 +18,8 @@ require('header.php');
 		<hr class="space">
 		</div>
 	</div>
-	
-<?php 
+
+<?php
 
 require('footer.php');
 
