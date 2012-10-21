@@ -14,8 +14,8 @@
 		<div class="span-7 colborder">
 			<h5>Coding Projects</h5>
 			<ul>
-				<li><a href="http://github.com/colmdoyle/personalsite">This site! (source)</a></li>
-				<li>Link 2</li>
+				<li><a href="https://github.com/colmdoyle/personalsite">This site! (source)</a></li>
+				<li><a href="https://github.com/colmdoyle/colms-sandbox">A FB Debugging App</a></li>
 				<li>Link 3</li>
 				<li>Link 4</li>
 			</ul>
