@@ -5,17 +5,17 @@
 		<div class="span-7 colborder">
 			<h5>My life online</h5>
 			<ul>
-				<li><a href="http://ie.linkedin.com/in/colmdoyle">LinkedIn</a></li>
-				<li><a href="http://github.com/colmdoyle">GitHub</a></li>
-				<li><a href="http://twitter.com/colmisainmdom">Twitter</a></li>
-				<li><a href="http://www.facebook.com/colmdoyle">Facebook</a></li>
+				<li><a target="_blank" href="http://ie.linkedin.com/in/colmdoyle">LinkedIn</a></li>
+				<li><a target="_blank" href="http://github.com/colmdoyle">GitHub</a></li>
+				<li><a target="_blank" href="http://twitter.com/colmisainmdom">Twitter</a></li>
+				<li><a target="_blank" href="http://www.facebook.com/colmdoyle">Facebook</a></li>
 			</ul>
 		</div>
 		<div class="span-7 colborder">
 			<h5>Coding Projects</h5>
 			<ul>
-				<li><a href="https://github.com/colmdoyle/personalsite">This site! (source)</a></li>
-				<li><a href="https://github.com/colmdoyle/colms-sandbox">A FB Debugging App</a></li>
+				<li><a target="_blank" href="https://github.com/colmdoyle/personalsite">This site! (source)</a></li>
+				<li><a target="_blank" href="https://github.com/colmdoyle/colms-sandbox">A FB Debugging App</a></li>
 				<li>Link 3</li>
 				<li>Link 4</li>
 			</ul>
