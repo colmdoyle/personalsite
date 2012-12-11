@@ -15,7 +15,7 @@
 			<h5>Coding Projects</h5>
 			<ul>
 				<li><a target="_blank" href="https://github.com/colmdoyle/personalsite">This site! (source)</a></li>
-				<li><a target="_blank" href="https://github.com/colmdoyle/colms-sandbox">A FB Debugging App</a></li>
+				<li><a target="_blank" href="https://github.com/colmdoyle/fb-diagnostics">FB Diagnostics</a></li>
 				<li>Link 3</li>
 				<li>Link 4</li>
 			</ul>
