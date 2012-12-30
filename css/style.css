@@ -1,0 +1,13 @@
+header#header {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#content {
+	padding-top: 15px;
+}
+
+#projects {
+	text-align: center;
+}
