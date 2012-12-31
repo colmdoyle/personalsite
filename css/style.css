@@ -1,13 +1,24 @@
-header#header {
-	margin-left: auto;
-	margin-right: auto;
+#header {
 	text-align: center;
 }
 
 #content {
 	padding-top: 15px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
 }
 
 #projects {
-	text-align: center;
+	text-align: justify;
+}
+
+#social-links a:hover {
+	text-decoration: none;
+	color: #006DCC;
+}
+
+#social-links a {
+	color: #000;
 }

@@ -13,33 +13,68 @@
 
   </head>
   <body>
-  	<div class="container-fluid" id="content">
-  		<header class="row-fluid" id="header">
+  	<div class="container" id="content">
+  		<header class="row" id="header">
   			<div class="span12">
   				<img src="https://graph.facebook.com/colmdoyle/picture?width=140&height=140" class="img-polaroid" />
-  				<h1> Colm Doyle </h1>
-  				<p class="muted"> Le Nerd </p>
+  				<h1>Colm Doyle</h1>
+  				<p class="muted">All of old. Nothing else ever. Ever tried. Ever failed.  <br /> No matter. Try again. Fail again. Fail better.</p>
+  				<ul class="inline" id="social-links">
+  					<li><a href="https://facebook.com/colmdoyle" target="_blank"><i class="icon-facebook icon-large"></i></a></li>
+  					<li><a href="https://twitter.com/colmisainmdom" target="_blank"><i class="icon-twitter icon-large"></i></a></li>
+  					<li><a href="http://lnkd.in/4ancSU" target="_blank"><i class="icon-linkedin icon-large"></i></a></li>
+  					<li><a href="https://github.com/colmdoyle" target="_blank"><i class="icon-github icon-large"></i></a></li>
+  				</ul>
   			</div>
   		</header>
-  		<section class="row-fluid" id="projects">
-  			<div class="span4">
-  				<h2> Project Name </h2>
-  				<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut ipsum quam. Nulla facilisi. Vestibulum imperdiet imperdiet turpis nec viverra. Cras sed sapien purus, non dignissim enim. Suspendisse potenti. Mauris sollicitudin, libero eu elementum dignissim, mi sapien rhoncus augue, suscipit volutpat lectus tortor eu massa. Maecenas at molestie lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam auctor sapien vitae velit lobortis quis aliquam risus ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent semper eleifend nisl, in bibendum arcu laoreet sit amet. Nulla id augue lorem, eu ornare nisl. Curabitur tincidunt fermentum magna sit amet fermentum. </p>
-  				<a href="#" class="btn"> Link </a>
+  		<hr />
+  		<section class="row" id="projects">
+  			<div class="span6">
+  				<h2>FB Diagnostics</h2>
+  				<p>For the sake of debugging a problem, sometimes it's useful to have an app that has an "at a glance" output of various different Facebook features / endpoints. This is just such a tool.</p>
+  				<p>It doesn't attempt to skin itself as a full app. It's just a dashboard of information and one click access to various Facebook Dialogs and other publishing endpoints, like OG Actions and /feed</p>
+  				<a href="https://github.com/colmdoyle/fb-diagnostics" class="btn btn-large btn-primary btn-block visible-phone"><i class="icon-github"></i> View on GitHub</a>
   			</div>
-  			<div class="span4">
-  				<h2> Project Name </h2>
-  				<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut ipsum quam. Nulla facilisi. Vestibulum imperdiet imperdiet turpis nec viverra. Cras sed sapien purus, non dignissim enim. Suspendisse potenti. Mauris sollicitudin, libero eu elementum dignissim, mi sapien rhoncus augue, suscipit volutpat lectus tortor eu massa. Maecenas at molestie lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam auctor sapien vitae velit lobortis quis aliquam risus ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent semper eleifend nisl, in bibendum arcu laoreet sit amet. Nulla id augue lorem, eu ornare nisl. Curabitur tincidunt fermentum magna sit amet fermentum. </p>
-  				<a href="#" class="btn"> Link </a>
+  			<div class="span6">
+  				<h2>GitHub Activity</h2>
+  				<p>This Activity widget allows you to show events related to users and individual repositories on any webpage you choose.</p>
+  				<ul>
+  					<li>The Gravatar associated with the user or repo</li>
+  					<li>The user's name</li>
+  					<li>The number of GitHub Followers a user has or the number of times a repo has been forked</li>
+  					<li>All public events associated with that user or repo</li>
+  				</ul>
+   				<a href="https://github.com/colmdoyle/gh-activity" class="btn btn-large btn-primary btn-block visible-phone"><i class="icon-github"></i> View on GitHub</a>
+   			</div>
+  		</section>
+  		<section class="row hidden-phone">
+  			<div class="span6">
+  				<a href="https://github.com/colmdoyle/fb-diagnostics" class="btn btn-large btn-primary btn-block"><i class="icon-github"></i> View on GitHub</a>
   			</div>
-  			<div class="span4">
-  				<h2> Project Name </h2>
-  				<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut ipsum quam. Nulla facilisi. Vestibulum imperdiet imperdiet turpis nec viverra. Cras sed sapien purus, non dignissim enim. Suspendisse potenti. Mauris sollicitudin, libero eu elementum dignissim, mi sapien rhoncus augue, suscipit volutpat lectus tortor eu massa. Maecenas at molestie lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam auctor sapien vitae velit lobortis quis aliquam risus ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent semper eleifend nisl, in bibendum arcu laoreet sit amet. Nulla id augue lorem, eu ornare nisl. Curabitur tincidunt fermentum magna sit amet fermentum. </p>
-  				<a href="#" class="btn"> Link </a>
-  			</div>
+  			<div class="span6">
+    			<a href="https://github.com/colmdoyle/gh-activity" class="btn btn-large btn-primary btn-block"><i class="icon-github"></i> View on GitHub</a>
+ 			</div>
+  		</section>
+  		<hr />
+  		<footer class="row">
+  			<p class="muted pull-right">I'll find something to put here.</p>
+  		</footer>
   	</div>
 	  <!-- !Scripts -->
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36623083-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>
   </body>
 </html>
