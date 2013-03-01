@@ -3,7 +3,7 @@
 }
 
 #content {
-	padding-top: 15px;
+
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
@@ -26,4 +26,31 @@
 
 #intro {
 	margin-bottom: 0;
+}
+
+.navbar .brand{
+	color: #000;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 30px rgba(255, 255, 255, 0.125);
+	font-weight: bold !important;
+}
+
+.nav-container{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#inner-header{
+	width: 100%;
+}
+@media only screen and (min-width: 980px) {
+	body{
+		padding-top: 60px;
+	}
+	
+	.container-fluid{
+		max-width: 970px;
+		margin: 0 auto;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
 }
